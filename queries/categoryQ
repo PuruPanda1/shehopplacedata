@@ -1,0 +1,9 @@
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/dress.svg', 'Dress & frock', '53', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/coat.svg', 'Winter Wear', '10', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/glasses.svg', 'Glasses & Lens', '15', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/shorts.svg', 'Shorts & Jeans', '20', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/tee.svg', 'T-Shirts', '10', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/jacket.svg', 'Jacket', '10', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/watch.svg', 'Watch', '10', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/hat.svg', 'Hat & Caps', '10', '#');
+INSERT INTO `category` (`categoryId`, `categoryImage`, `categoryTitle`, `categoryNumber`, `categoryUrl`) VALUES (NULL, './assets/images/icons/perfume.jpg', 'Perfume', '10', '#');

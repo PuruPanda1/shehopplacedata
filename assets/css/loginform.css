@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Montserrat&display=swap');
+.loginForm{
+    width: 100%;
+    margin: 50px auto 0px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm h1,.loginForm h5{
+    align-self: center;
+}
+
+.loginForm form{
+    margin-top: -10px;
+    text-align: center;
+}
+
+.user_input{
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.submit_button, .reset_button{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid red;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.loginText{
+    margin-top: -15px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.submitMessage{
+    display: flex;
+    justify-content: center;
+    color: green;
+    margin-top: -20px;
+    text-align: center;
+}

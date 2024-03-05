@@ -1,0 +1,3 @@
+INSERT INTO `banner` (`bannerId`, `bannerImage`, `bannerSubtitle`, `bannerTitle`, `bannerPrice`, `bannerUrl`) VALUES (NULL, './assets/images/banner-1.jpg', 'Trending item', 'Women's latest fashion sale','499','#');
+INSERT INTO `banner` (`bannerId`, `bannerImage`, `bannerSubtitle`, `bannerTitle`, `bannerPrice`, `bannerUrl`) VALUES (NULL, './assets/images/banner-2.jpg', 'Trending accessories', 'Modern sunglasses', '100', '#');
+INSERT INTO `banner` (`bannerId`, `bannerImage`, `bannerSubtitle`, `bannerTitle`, `bannerPrice`, `bannerUrl`) VALUES (NULL, './assets/images/banner-3.jpg', 'Sale Offer', 'New fashion summer sale', '399', '#');
